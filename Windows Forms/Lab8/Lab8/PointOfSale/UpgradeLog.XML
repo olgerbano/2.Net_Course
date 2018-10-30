@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PointOfSale">
+</Property><Property Name="Solution File" Value="C:\Users\Cristi\Desktop\labfiles\Mod05\Labfiles\Starter\CS\PointOfSale\PointOfSale.sln">
+</Property><Property Name="Date" Value="Friday, April 30, 2010">
+</Property><Property Name="Time" Value="12:00 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="PointOfSale.sln" Description="File successfully backed up as C:\Users\Cristi\Desktop\labfiles\Mod05\Labfiles\Starter\CS\PointOfSale\Backup\PointOfSale.sln">
+</Event><Event ErrorLevel="0" Project="PointOfSale" Source="PointOfSale\PointOfSale.csproj" Description="Project file successfully backed up as C:\Users\Cristi\Desktop\labfiles\Mod05\Labfiles\Starter\CS\PointOfSale\Backup\PointOfSale\PointOfSale.csproj">
+</Event><Event ErrorLevel="0" Project="PointOfSale" Source="PointOfSale\Login.cs" Description="File successfully backed up as C:\Users\Cristi\Desktop\labfiles\Mod05\Labfiles\Starter\CS\PointOfSale\Backup\PointOfSale\Login.cs">
+</Event><Event ErrorLevel="0" Project="PointOfSale" Source="PointOfSale\Login.designer.cs" Description="File successfully backed up as C:\Users\Cristi\Desktop\labfiles\Mod05\Labfiles\Starter\CS\PointOfSale\Backup\PointOfSale\Login.designer.cs">
+</Event><Event ErrorLevel="0" Project="PointOfSale" Source="PointOfSale\MainForm.cs" Description="File successfully backed up as C:\Users\Cristi\Desktop\labfiles\Mod05\Labfiles\Starter\CS\PointOfSale\Backup\PointOfSale\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="PointOfSale" Source="PointOfSale\MainForm.Designer.cs" Description="File successfully backed up as C:\Users\Cristi\Desktop\labfiles\Mod05\Labfiles\Starter\CS\PointOfSale\Backup\PointOfSale\MainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PointOfSale" Source="PointOfSale\OrderForm.cs" Description="File successfully backed up as C:\Users\Cristi\Desktop\labfiles\Mod05\Labfiles\Starter\CS\PointOfSale\Backup\PointOfSale\OrderForm.cs">
+</Event><Event ErrorLevel="0" Project="PointOfSale" Source="PointOfSale\OrderForm.designer.cs" Description="File successfully backed up as C:\Users\Cristi\Desktop\labfiles\Mod05\Labfiles\Starter\CS\PointOfSale\Backup\PointOfSale\OrderForm.designer.cs">
+</Event><Event ErrorLevel="0" Project="PointOfSale" Source="PointOfSale\Program.cs" Description="File successfully backed up as C:\Users\Cristi\Desktop\labfiles\Mod05\Labfiles\Starter\CS\PointOfSale\Backup\PointOfSale\Program.cs">
+</Event><Event ErrorLevel="0" Project="PointOfSale" Source="PointOfSale\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Cristi\Desktop\labfiles\Mod05\Labfiles\Starter\CS\PointOfSale\Backup\PointOfSale\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="PointOfSale" Source="PointOfSale\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Cristi\Desktop\labfiles\Mod05\Labfiles\Starter\CS\PointOfSale\Backup\PointOfSale\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PointOfSale" Source="PointOfSale\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\Cristi\Desktop\labfiles\Mod05\Labfiles\Starter\CS\PointOfSale\Backup\PointOfSale\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PointOfSale" Source="PointOfSale\Query.cs" Description="File successfully backed up as C:\Users\Cristi\Desktop\labfiles\Mod05\Labfiles\Starter\CS\PointOfSale\Backup\PointOfSale\Query.cs">
+</Event><Event ErrorLevel="0" Project="PointOfSale" Source="PointOfSale\Query.designer.cs" Description="File successfully backed up as C:\Users\Cristi\Desktop\labfiles\Mod05\Labfiles\Starter\CS\PointOfSale\Backup\PointOfSale\Query.designer.cs">
+</Event><Event ErrorLevel="0" Project="PointOfSale" Source="PointOfSale\Properties\Settings.settings" Description="File successfully backed up as C:\Users\Cristi\Desktop\labfiles\Mod05\Labfiles\Starter\CS\PointOfSale\Backup\PointOfSale\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="PointOfSale" Source="PointOfSale\Login.resx" Description="File successfully backed up as C:\Users\Cristi\Desktop\labfiles\Mod05\Labfiles\Starter\CS\PointOfSale\Backup\PointOfSale\Login.resx">
+</Event><Event ErrorLevel="0" Project="PointOfSale" Source="PointOfSale\OrderForm.resx" Description="File successfully backed up as C:\Users\Cristi\Desktop\labfiles\Mod05\Labfiles\Starter\CS\PointOfSale\Backup\PointOfSale\OrderForm.resx">
+</Event><Event ErrorLevel="0" Project="PointOfSale" Source="PointOfSale\Properties\Resources.resx" Description="File successfully backed up as C:\Users\Cristi\Desktop\labfiles\Mod05\Labfiles\Starter\CS\PointOfSale\Backup\PointOfSale\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="PointOfSale" Source="PointOfSale\Query.resx" Description="File successfully backed up as C:\Users\Cristi\Desktop\labfiles\Mod05\Labfiles\Starter\CS\PointOfSale\Backup\PointOfSale\Query.resx">
+</Event><Event ErrorLevel="0" Project="PointOfSale" Source="PointOfSale\PointOfSale.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="PointOfSale" Source="PointOfSale\PointOfSale.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="Inventory\Inventory.csproj" Description="Project file successfully backed up as C:\Users\Cristi\Desktop\labfiles\Mod05\Labfiles\Starter\CS\PointOfSale\Backup\Inventory\Inventory.csproj">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="Inventory\Inventory.cs" Description="File successfully backed up as C:\Users\Cristi\Desktop\labfiles\Mod05\Labfiles\Starter\CS\PointOfSale\Backup\Inventory\Inventory.cs">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="Inventory\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Cristi\Desktop\labfiles\Mod05\Labfiles\Starter\CS\PointOfSale\Backup\Inventory\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="Inventory\Inventory.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Inventory" Source="Inventory\Inventory.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="PointOfSale.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="PointOfSale.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PointOfSale" Source="PointOfSale\PointOfSale.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Inventory" Source="Inventory\Inventory.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

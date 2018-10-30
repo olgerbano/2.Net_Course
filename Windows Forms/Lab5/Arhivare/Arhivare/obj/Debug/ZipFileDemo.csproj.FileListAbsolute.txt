@@ -1,0 +1,28 @@
+C:\Bipin\ZipFileDemo\bin\Debug\ZipFileDemo.exe.config
+C:\Bipin\ZipFileDemo\bin\Debug\ZipFileDemo.exe
+C:\Bipin\ZipFileDemo\bin\Debug\ZipFileDemo.pdb
+C:\Bipin\ZipFileDemo\obj\Debug\ZipFileDemo.csprojResolveAssemblyReference.cache
+C:\Bipin\ZipFileDemo\obj\Debug\ZipFileDemo.Form1.resources
+C:\Bipin\ZipFileDemo\obj\Debug\ZipFileDemo.Properties.Resources.resources
+C:\Bipin\ZipFileDemo\obj\Debug\ZipFileDemo.csproj.GenerateResource.Cache
+C:\Bipin\ZipFileDemo\obj\Debug\ZipFileDemo.exe
+C:\Bipin\ZipFileDemo\obj\Debug\ZipFileDemo.pdb
+C:\Users\Jimy\Desktop\ITACAD-codificarea datelor\lab\Arhivare\bin\Debug\ZipFileDemo.exe.config
+C:\Users\Jimy\Desktop\ITACAD-codificarea datelor\lab\Arhivare\obj\Debug\ZipFileDemo.exe
+C:\Users\Jimy\Desktop\ITACAD-codificarea datelor\lab\Arhivare\obj\Debug\ZipFileDemo.pdb
+C:\Users\Jimy\Desktop\ITACAD-codificarea datelor\lab\Arhivare\bin\Debug\ZipFileDemo.exe
+C:\Users\Jimy\Desktop\ITACAD-codificarea datelor\lab\Arhivare\bin\Debug\ZipFileDemo.pdb
+C:\Users\Jimy\Desktop\ITACAD-codificarea datelor\lab\Arhivare\obj\Debug\ZipFileDemo.csprojResolveAssemblyReference.cache
+C:\Users\Jimy\Desktop\ITACAD-codificarea datelor\lab\Arhivare\obj\Debug\ZipFileDemo.Form1.resources
+C:\Users\Jimy\Desktop\ITACAD-codificarea datelor\lab\Arhivare\obj\Debug\ZipFileDemo.Properties.Resources.resources
+C:\Users\Jimy\Desktop\ITACAD-codificarea datelor\lab\Arhivare\obj\Debug\ZipFileDemo.csproj.GenerateResource.Cache
+D:\ITACAD\2.net\lab5\Arhivare - Solution\Arhivare\bin\Debug\ZipFileDemo.exe.config
+D:\ITACAD\2.net\lab5\Arhivare - Solution\Arhivare\bin\Debug\ZipFileDemo.exe
+D:\ITACAD\2.net\lab5\Arhivare - Solution\Arhivare\bin\Debug\ZipFileDemo.pdb
+D:\ITACAD\2.net\lab5\Arhivare - Solution\Arhivare\obj\Debug\ZipFileDemo.csprojAssemblyReference.cache
+D:\ITACAD\2.net\lab5\Arhivare - Solution\Arhivare\obj\Debug\ZipFileDemo.Form1.resources
+D:\ITACAD\2.net\lab5\Arhivare - Solution\Arhivare\obj\Debug\ZipFileDemo.Properties.Resources.resources
+D:\ITACAD\2.net\lab5\Arhivare - Solution\Arhivare\obj\Debug\ZipFileDemo.csproj.GenerateResource.cache
+D:\ITACAD\2.net\lab5\Arhivare - Solution\Arhivare\obj\Debug\ZipFileDemo.csproj.CoreCompileInputs.cache
+D:\ITACAD\2.net\lab5\Arhivare - Solution\Arhivare\obj\Debug\ZipFileDemo.exe
+D:\ITACAD\2.net\lab5\Arhivare - Solution\Arhivare\obj\Debug\ZipFileDemo.pdb

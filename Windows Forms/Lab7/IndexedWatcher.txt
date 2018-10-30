@@ -1,0 +1,33 @@
+      Dictionary<string, IndexedWatcher> watchers;
+
+      class IndexedWatcher : FileSystemWatcher
+      {
+         public List<int> ProcessesWatching;
+
+         public IndexedWatcher(string folder, string filter, FileSystemEventHandler handler)
+            : base(folder, filter)
+         {
+            ProcessesWatching = new List<int>();
+            this.Created += handler;
+            this.Changed += handler;
+            this.Deleted += handler;
+         }
+
+         public void AddProcess(int id)
+         {
+             if (!ProcessesWatching.Contains(id))
+             {
+                 ProcessesWatching.Add(id);
+                 EnableRaisingEvents = true;
+             }
+         }
+
+         public void RemoveProcess(int id)
+         {
+             ProcessesWatching.Remove(id);
+             if (ProcessesWatching.Count == 0)
+             {
+                 EnableRaisingEvents = false;
+             }
+         }
+      }

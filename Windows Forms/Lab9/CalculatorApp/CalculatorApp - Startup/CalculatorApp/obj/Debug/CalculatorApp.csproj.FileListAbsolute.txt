@@ -1,0 +1,19 @@
+c:\users\jimy\documents\visual studio 2012\Projects\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+c:\users\jimy\documents\visual studio 2012\Projects\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+c:\users\jimy\documents\visual studio 2012\Projects\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+c:\users\jimy\documents\visual studio 2012\Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojResolveAssemblyReference.cache
+c:\users\jimy\documents\visual studio 2012\Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Form1.resources
+c:\users\jimy\documents\visual studio 2012\Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+c:\users\jimy\documents\visual studio 2012\Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.Cache
+c:\users\jimy\documents\visual studio 2012\Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+c:\users\jimy\documents\visual studio 2012\Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
+C:\Users\DemonsRun\Desktop\New folder\2.Net_Course\Windows Forms\Lab9\CalculatorApp\CalculatorApp - Startup\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Users\DemonsRun\Desktop\New folder\2.Net_Course\Windows Forms\Lab9\CalculatorApp\CalculatorApp - Startup\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Users\DemonsRun\Desktop\New folder\2.Net_Course\Windows Forms\Lab9\CalculatorApp\CalculatorApp - Startup\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Users\DemonsRun\Desktop\New folder\2.Net_Course\Windows Forms\Lab9\CalculatorApp\CalculatorApp - Startup\CalculatorApp\obj\Debug\CalculatorApp.csprojAssemblyReference.cache
+C:\Users\DemonsRun\Desktop\New folder\2.Net_Course\Windows Forms\Lab9\CalculatorApp\CalculatorApp - Startup\CalculatorApp\obj\Debug\CalculatorApp.Form1.resources
+C:\Users\DemonsRun\Desktop\New folder\2.Net_Course\Windows Forms\Lab9\CalculatorApp\CalculatorApp - Startup\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+C:\Users\DemonsRun\Desktop\New folder\2.Net_Course\Windows Forms\Lab9\CalculatorApp\CalculatorApp - Startup\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+C:\Users\DemonsRun\Desktop\New folder\2.Net_Course\Windows Forms\Lab9\CalculatorApp\CalculatorApp - Startup\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\DemonsRun\Desktop\New folder\2.Net_Course\Windows Forms\Lab9\CalculatorApp\CalculatorApp - Startup\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Users\DemonsRun\Desktop\New folder\2.Net_Course\Windows Forms\Lab9\CalculatorApp\CalculatorApp - Startup\CalculatorApp\obj\Debug\CalculatorApp.pdb

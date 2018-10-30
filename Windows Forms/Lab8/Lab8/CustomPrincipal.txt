@@ -1,0 +1,59 @@
+    // A custom principle to be used in authorization checks
+    public class CustomPrincipal : IPrincipal
+    {
+        // These are the users that can log on, these should be in
+        // a database.
+        static Dictionary<string, User> users;
+
+        static CustomPrincipal()
+        {
+            users = new Dictionary<string, User>();
+            User user = User.Create("Tom", "tom");
+            user.AddRole("Clerk");
+            users.Add(user.Name, user);
+            user = User.Create("Jane", "jane");
+            user.AddRole("Clerk");
+            user.AddRole("Manager");
+            users.Add(user.Name, user);
+        }
+
+        // This method wil return a principal as a result of authenicating a user.
+        public static CustomPrincipal AuthenticateUser(string userName, string password)
+        {
+            // TODO: Paste AuthenticateUser.txt here
+        }
+        
+        // This is the list of roles for the user.
+        IList<string> roles;
+        // This is the identity of the user.
+        IIdentity user;
+
+        // Create a new principal with its name and roles. You can also 
+        // specify whether the user is authenticated.
+        public CustomPrincipal(string userName, bool bAuthenticated, IList<string> roles)
+        {
+            this.user = new CustomIdentity(userName, bAuthenticated);
+            this.roles = roles;
+        }
+
+        // IPrincipal method
+        public IIdentity Identity
+        {
+            get { return user; }
+        }
+
+        // IPrincipal method
+        public bool IsInRole(string role)
+        {
+            // TODO: Paste IsInRole.txt here
+        }
+
+        // A generic unauthenticated user
+        public static CustomPrincipal Unauthenticated
+        {
+            get
+            {
+                return new CustomPrincipal("Unauthenticated", false, null);
+            }
+        }
+    }

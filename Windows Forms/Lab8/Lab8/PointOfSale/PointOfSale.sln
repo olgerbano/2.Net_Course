@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointOfSale", "PointOfSale\PointOfSale.csproj", "{5EA2EDCA-F792-44A7-AAF3-218435F02229}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inventory", "Inventory\Inventory.csproj", "{C4F22A6E-56A4-4E4C-A63C-BEEA776F90AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EA2EDCA-F792-44A7-AAF3-218435F02229}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EA2EDCA-F792-44A7-AAF3-218435F02229}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EA2EDCA-F792-44A7-AAF3-218435F02229}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EA2EDCA-F792-44A7-AAF3-218435F02229}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4F22A6E-56A4-4E4C-A63C-BEEA776F90AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4F22A6E-56A4-4E4C-A63C-BEEA776F90AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4F22A6E-56A4-4E4C-A63C-BEEA776F90AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4F22A6E-56A4-4E4C-A63C-BEEA776F90AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E96FF0E8-21DB-4E2D-B447-D66AB56D4584}
+	EndGlobalSection
+EndGlobal

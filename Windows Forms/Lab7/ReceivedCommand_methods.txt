@@ -1,0 +1,24 @@
+        private void OnResults(int id, IList<KeyValuePair<string, string>>results)
+        {
+            Report(results, "Called OnResults");
+        }
+
+        private void OnReset(int id, IList<KeyValuePair<string, string>>results)
+        {
+            Report(results, "Called OnReset");
+        }
+
+        private void OnStart(int id, string folder, IList<KeyValuePair<string, string>>results)
+        {
+            Report(results, "Called OnStart");
+        }
+
+        private void OnFinish(int id, IList<KeyValuePair<string, string>>results)
+        {
+            Report(results, "Called OnFinish");
+        }
+
+        private void Report(IList<KeyValuePair<string, string>> results, string str)
+        {
+            results.Add(new KeyValuePair<string, string>(DateTime.Now.ToLongTimeString(), str));
+        }

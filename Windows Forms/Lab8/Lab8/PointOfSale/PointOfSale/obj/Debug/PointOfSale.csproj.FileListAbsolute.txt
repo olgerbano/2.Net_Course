@@ -1,0 +1,15 @@
+D:\ITACAD\2.net\lab8\Laborator 8 Startup\Laborator 8 Startup\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe
+D:\ITACAD\2.net\lab8\Laborator 8 Startup\Laborator 8 Startup\PointOfSale\PointOfSale\bin\Debug\PointOfSale.pdb
+D:\ITACAD\2.net\lab8\Laborator 8 Startup\Laborator 8 Startup\PointOfSale\PointOfSale\bin\Debug\Inventory.dll
+D:\ITACAD\2.net\lab8\Laborator 8 Startup\Laborator 8 Startup\PointOfSale\PointOfSale\bin\Debug\Inventory.pdb
+D:\ITACAD\2.net\lab8\Laborator 8 Startup\Laborator 8 Startup\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csprojAssemblyReference.cache
+D:\ITACAD\2.net\lab8\Laborator 8 Startup\Laborator 8 Startup\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Login.resources
+D:\ITACAD\2.net\lab8\Laborator 8 Startup\Laborator 8 Startup\PointOfSale\PointOfSale\obj\Debug\PointOfSale.MainForm.resources
+D:\ITACAD\2.net\lab8\Laborator 8 Startup\Laborator 8 Startup\PointOfSale\PointOfSale\obj\Debug\PointOfSale.OrderForm.resources
+D:\ITACAD\2.net\lab8\Laborator 8 Startup\Laborator 8 Startup\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Properties.Resources.resources
+D:\ITACAD\2.net\lab8\Laborator 8 Startup\Laborator 8 Startup\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Query.resources
+D:\ITACAD\2.net\lab8\Laborator 8 Startup\Laborator 8 Startup\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csproj.GenerateResource.cache
+D:\ITACAD\2.net\lab8\Laborator 8 Startup\Laborator 8 Startup\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csproj.CoreCompileInputs.cache
+D:\ITACAD\2.net\lab8\Laborator 8 Startup\Laborator 8 Startup\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csproj.CopyComplete
+D:\ITACAD\2.net\lab8\Laborator 8 Startup\Laborator 8 Startup\PointOfSale\PointOfSale\obj\Debug\PointOfSale.exe
+D:\ITACAD\2.net\lab8\Laborator 8 Startup\Laborator 8 Startup\PointOfSale\PointOfSale\obj\Debug\PointOfSale.pdb

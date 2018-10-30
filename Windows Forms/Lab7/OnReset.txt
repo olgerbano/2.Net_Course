@@ -1,0 +1,8 @@
+            lock (data)
+            {
+                List<string> items;
+                if (data.TryGetValue(id, out items))
+                {
+                    items.Clear();
+                }
+            }

@@ -1,0 +1,13 @@
+c:\users\andrei\documents\visual studio 2012\Projects\Observer - Lab\Observer - Lab\bin\Debug\Observer - Lab.exe.config
+c:\users\andrei\documents\visual studio 2012\Projects\Observer - Lab\Observer - Lab\obj\Debug\Observer - Lab.csprojResolveAssemblyReference.cache
+c:\users\andrei\documents\visual studio 2012\Projects\Observer - Lab\Observer - Lab\bin\Debug\Observer - Lab.exe
+c:\users\andrei\documents\visual studio 2012\Projects\Observer - Lab\Observer - Lab\bin\Debug\Observer - Lab.pdb
+c:\users\andrei\documents\visual studio 2012\Projects\Observer - Lab\Observer - Lab\obj\Debug\Observer - Lab.exe
+c:\users\andrei\documents\visual studio 2012\Projects\Observer - Lab\Observer - Lab\obj\Debug\Observer - Lab.pdb
+D:\ITACAD\2.net\lab3\Observer - Solution\Observer - Lab\Observer - Lab\bin\Debug\Observer - Lab.exe.config
+D:\ITACAD\2.net\lab3\Observer - Solution\Observer - Lab\Observer - Lab\bin\Debug\Observer - Lab.exe
+D:\ITACAD\2.net\lab3\Observer - Solution\Observer - Lab\Observer - Lab\bin\Debug\Observer - Lab.pdb
+D:\ITACAD\2.net\lab3\Observer - Solution\Observer - Lab\Observer - Lab\obj\Debug\Observer - Lab.csprojAssemblyReference.cache
+D:\ITACAD\2.net\lab3\Observer - Solution\Observer - Lab\Observer - Lab\obj\Debug\Observer - Lab.csproj.CoreCompileInputs.cache
+D:\ITACAD\2.net\lab3\Observer - Solution\Observer - Lab\Observer - Lab\obj\Debug\Observer - Lab.exe
+D:\ITACAD\2.net\lab3\Observer - Solution\Observer - Lab\Observer - Lab\obj\Debug\Observer - Lab.pdb

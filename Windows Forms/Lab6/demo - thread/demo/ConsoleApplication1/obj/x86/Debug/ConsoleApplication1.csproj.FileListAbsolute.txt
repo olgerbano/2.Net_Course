@@ -1,0 +1,23 @@
+D:\VStudio work\C#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\VStudio work\C#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\VStudio work\C#\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\VStudio work\C#\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\VStudio work\C#\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\VStudio work\C#\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.Form1.resources
+D:\VStudio work\C#\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\VStudio work\C#\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jimy\Desktop\Modulul 6 - Introducere in threaduri\demo\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Jimy\Desktop\Modulul 6 - Introducere in threaduri\demo\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Jimy\Desktop\Modulul 6 - Introducere in threaduri\demo\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Jimy\Desktop\Modulul 6 - Introducere in threaduri\demo\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Jimy\Desktop\Modulul 6 - Introducere in threaduri\demo\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Jimy\Desktop\Modulul 6 - Introducere in threaduri\demo\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.Form1.resources
+C:\Users\Jimy\Desktop\Modulul 6 - Introducere in threaduri\demo\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csproj.GenerateResource.Cache
+D:\ITACAD\2.net\lab6\demo - thread\demo\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\ITACAD\2.net\lab6\demo - thread\demo\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\ITACAD\2.net\lab6\demo - thread\demo\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+D:\ITACAD\2.net\lab6\demo - thread\demo\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.Form1.resources
+D:\ITACAD\2.net\lab6\demo - thread\demo\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csproj.GenerateResource.cache
+D:\ITACAD\2.net\lab6\demo - thread\demo\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+D:\ITACAD\2.net\lab6\demo - thread\demo\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\ITACAD\2.net\lab6\demo - thread\demo\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

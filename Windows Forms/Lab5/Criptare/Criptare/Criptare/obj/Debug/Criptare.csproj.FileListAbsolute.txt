@@ -1,0 +1,7 @@
+D:\ITACAD\2.net\lab5\Criptare - Solution\Criptare\Criptare\bin\Debug\Criptare.exe.config
+D:\ITACAD\2.net\lab5\Criptare - Solution\Criptare\Criptare\bin\Debug\Criptare.exe
+D:\ITACAD\2.net\lab5\Criptare - Solution\Criptare\Criptare\bin\Debug\Criptare.pdb
+D:\ITACAD\2.net\lab5\Criptare - Solution\Criptare\Criptare\obj\Debug\Criptare.csprojAssemblyReference.cache
+D:\ITACAD\2.net\lab5\Criptare - Solution\Criptare\Criptare\obj\Debug\Criptare.csproj.CoreCompileInputs.cache
+D:\ITACAD\2.net\lab5\Criptare - Solution\Criptare\Criptare\obj\Debug\Criptare.exe
+D:\ITACAD\2.net\lab5\Criptare - Solution\Criptare\Criptare\obj\Debug\Criptare.pdb

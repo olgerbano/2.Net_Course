@@ -1,0 +1,34 @@
+C:\Users\Cristi\Desktop\CS\CS\AccountManager\AccountManager\obj\Debug\AccountManager.exe
+C:\Users\Cristi\Desktop\CS\CS\AccountManager\AccountManager\obj\Debug\AccountManager.pdb
+C:\Users\Cristi\Desktop\CS\CS\AccountManager\AccountManager\bin\Debug\AccountManager.exe
+C:\Users\Cristi\Desktop\CS\CS\AccountManager\AccountManager\bin\Debug\AccountManager.pdb
+C:\Users\Cristi\Desktop\CS\CS\AccountManager\AccountManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Cristi\Desktop\CS\CS\AccountManager\AccountManager\obj\Debug\AccountManager.AccountForm.resources
+C:\Users\Cristi\Desktop\CS\CS\AccountManager\AccountManager\obj\Debug\AccountManager.MainForm.resources
+C:\Users\Cristi\Desktop\CS\CS\AccountManager\AccountManager\obj\Debug\AccountManager.NotesForm.resources
+C:\Users\Cristi\Desktop\CS\CS\AccountManager\AccountManager\obj\Debug\AccountManager.Properties.Resources.resources
+C:\Users\Cristi\Desktop\CS\CS\AccountManager\AccountManager\obj\Debug\AccountManager.csproj.GenerateResource.Cache
+D:\ITACAD\2.net\lab2\Laborator 2 Solution\AccountManager\AccountManager\bin\Debug\AccountManager.exe.config
+D:\ITACAD\2.net\lab2\Laborator 2 Solution\AccountManager\AccountManager\obj\Debug\AccountManager.exe
+D:\ITACAD\2.net\lab2\Laborator 2 Solution\AccountManager\AccountManager\obj\Debug\AccountManager.pdb
+D:\ITACAD\2.net\lab2\Laborator 2 Solution\AccountManager\AccountManager\bin\Debug\AccountManager.exe
+D:\ITACAD\2.net\lab2\Laborator 2 Solution\AccountManager\AccountManager\bin\Debug\AccountManager.pdb
+D:\ITACAD\2.net\lab2\Laborator 2 Solution\AccountManager\AccountManager\obj\Debug\AccountManager.AccountForm.resources
+D:\ITACAD\2.net\lab2\Laborator 2 Solution\AccountManager\AccountManager\obj\Debug\AccountManager.MainForm.resources
+D:\ITACAD\2.net\lab2\Laborator 2 Solution\AccountManager\AccountManager\obj\Debug\AccountManager.NotesForm.resources
+D:\ITACAD\2.net\lab2\Laborator 2 Solution\AccountManager\AccountManager\obj\Debug\AccountManager.Properties.Resources.resources
+D:\ITACAD\2.net\lab2\Laborator 2 Solution\AccountManager\AccountManager\obj\Debug\AccountManager.csproj.GenerateResource.Cache
+D:\ITACAD\2.net\lab2\Laborator 2 Solution\AccountManager\AccountManager\obj\Debug\AccountManager.csprojAssemblyReference.cache
+D:\ITACAD\2.net\lab2\Laborator 2 Solution\AccountManager\AccountManager\obj\Debug\AccountManager.csproj.CoreCompileInputs.cache
+C:\Users\DemonsRun\Desktop\New folder\2.Net_Course\Windows Forms\Lab2\AccountManager\AccountManager\bin\Debug\AccountManager.exe.config
+C:\Users\DemonsRun\Desktop\New folder\2.Net_Course\Windows Forms\Lab2\AccountManager\AccountManager\bin\Debug\AccountManager.exe
+C:\Users\DemonsRun\Desktop\New folder\2.Net_Course\Windows Forms\Lab2\AccountManager\AccountManager\bin\Debug\AccountManager.pdb
+C:\Users\DemonsRun\Desktop\New folder\2.Net_Course\Windows Forms\Lab2\AccountManager\AccountManager\obj\Debug\AccountManager.csprojAssemblyReference.cache
+C:\Users\DemonsRun\Desktop\New folder\2.Net_Course\Windows Forms\Lab2\AccountManager\AccountManager\obj\Debug\AccountManager.AccountForm.resources
+C:\Users\DemonsRun\Desktop\New folder\2.Net_Course\Windows Forms\Lab2\AccountManager\AccountManager\obj\Debug\AccountManager.MainForm.resources
+C:\Users\DemonsRun\Desktop\New folder\2.Net_Course\Windows Forms\Lab2\AccountManager\AccountManager\obj\Debug\AccountManager.NotesForm.resources
+C:\Users\DemonsRun\Desktop\New folder\2.Net_Course\Windows Forms\Lab2\AccountManager\AccountManager\obj\Debug\AccountManager.Properties.Resources.resources
+C:\Users\DemonsRun\Desktop\New folder\2.Net_Course\Windows Forms\Lab2\AccountManager\AccountManager\obj\Debug\AccountManager.csproj.GenerateResource.cache
+C:\Users\DemonsRun\Desktop\New folder\2.Net_Course\Windows Forms\Lab2\AccountManager\AccountManager\obj\Debug\AccountManager.csproj.CoreCompileInputs.cache
+C:\Users\DemonsRun\Desktop\New folder\2.Net_Course\Windows Forms\Lab2\AccountManager\AccountManager\obj\Debug\AccountManager.exe
+C:\Users\DemonsRun\Desktop\New folder\2.Net_Course\Windows Forms\Lab2\AccountManager\AccountManager\obj\Debug\AccountManager.pdb

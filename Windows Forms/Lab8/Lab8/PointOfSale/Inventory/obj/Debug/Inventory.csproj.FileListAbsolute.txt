@@ -1,0 +1,6 @@
+D:\ITACAD\2.net\lab8\Laborator 8 Startup\Laborator 8 Startup\PointOfSale\Inventory\bin\Debug\Inventory.dll
+D:\ITACAD\2.net\lab8\Laborator 8 Startup\Laborator 8 Startup\PointOfSale\Inventory\bin\Debug\Inventory.pdb
+D:\ITACAD\2.net\lab8\Laborator 8 Startup\Laborator 8 Startup\PointOfSale\Inventory\obj\Debug\Inventory.csprojAssemblyReference.cache
+D:\ITACAD\2.net\lab8\Laborator 8 Startup\Laborator 8 Startup\PointOfSale\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+D:\ITACAD\2.net\lab8\Laborator 8 Startup\Laborator 8 Startup\PointOfSale\Inventory\obj\Debug\Inventory.dll
+D:\ITACAD\2.net\lab8\Laborator 8 Startup\Laborator 8 Startup\PointOfSale\Inventory\obj\Debug\Inventory.pdb

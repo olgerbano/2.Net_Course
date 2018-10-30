@@ -1,0 +1,8 @@
+E:\Labfiles\Solution\CS\AccountManager\AccountManager\bin\Debug\AccountManager.exe
+E:\Labfiles\Solution\CS\AccountManager\AccountManager\bin\Debug\AccountManager.pdb
+E:\Labfiles\Solution\CS\AccountManager\AccountManager\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Solution\CS\AccountManager\AccountManager\obj\Debug\AccountManager.MainForm.resources
+E:\Labfiles\Solution\CS\AccountManager\AccountManager\obj\Debug\AccountManager.Properties.Resources.resources
+E:\Labfiles\Solution\CS\AccountManager\AccountManager\obj\Debug\AccountManager.csproj.GenerateResource.Cache
+E:\Labfiles\Solution\CS\AccountManager\AccountManager\obj\Debug\AccountManager.exe
+E:\Labfiles\Solution\CS\AccountManager\AccountManager\obj\Debug\AccountManager.pdb

@@ -1,0 +1,22 @@
+            Report(results, String.Format("Called OnStart to watch {0}", folder));
+            lock (data)
+            {
+                if (!data.ContainsKey(id))
+                {
+                    data.Add(id, new List<String>());
+                }
+            }
+
+            lock (watchers)
+            {
+                if (watchers.ContainsKey(folder))
+                {
+                    watchers[folder].AddProcess(id);
+                }
+                else
+                {
+                    IndexedWatcher newWatcher = new IndexedWatcher(folder, "*.*", new FileSystemEventHandler(FileEventHandler));
+                    watchers.Add(folder, newWatcher);
+                    newWatcher.AddProcess(id);
+                }
+            }

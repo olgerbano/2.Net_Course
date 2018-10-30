@@ -1,0 +1,32 @@
+D:\2.NET\Allfiles\Mod01\Labfiles\Solution\CS\AccountManager\AccountManager\obj\Debug\AccountManager.exe
+D:\2.NET\Allfiles\Mod01\Labfiles\Solution\CS\AccountManager\AccountManager\obj\Debug\AccountManager.pdb
+D:\2.NET\Allfiles\Mod01\Labfiles\Solution\CS\AccountManager\AccountManager\bin\Debug\AccountManager.exe
+D:\2.NET\Allfiles\Mod01\Labfiles\Solution\CS\AccountManager\AccountManager\bin\Debug\AccountManager.pdb
+D:\2.NET\Allfiles\Mod01\Labfiles\Solution\CS\AccountManager\AccountManager\obj\Debug\ResolveAssemblyReference.cache
+D:\2.NET\Allfiles\Mod01\Labfiles\Solution\CS\AccountManager\AccountManager\obj\Debug\AccountManager.MainForm.resources
+D:\2.NET\Allfiles\Mod01\Labfiles\Solution\CS\AccountManager\AccountManager\obj\Debug\AccountManager.Properties.Resources.resources
+D:\2.NET\Allfiles\Mod01\Labfiles\Solution\CS\AccountManager\AccountManager\obj\Debug\AccountManager.csproj.GenerateResource.Cache
+D:\ITACAD\2.net\lab1\Laborator 1 Solution\AccountManager\AccountManager\bin\Debug\AccountManager.exe.config
+D:\ITACAD\2.net\lab1\Laborator 1 Solution\AccountManager\AccountManager\obj\Debug\AccountManager.exe
+D:\ITACAD\2.net\lab1\Laborator 1 Solution\AccountManager\AccountManager\obj\Debug\AccountManager.pdb
+D:\ITACAD\2.net\lab1\Laborator 1 Solution\AccountManager\AccountManager\bin\Debug\AccountManager.exe
+D:\ITACAD\2.net\lab1\Laborator 1 Solution\AccountManager\AccountManager\bin\Debug\AccountManager.pdb
+D:\ITACAD\2.net\lab1\Laborator 1 Solution\AccountManager\AccountManager\obj\Debug\AccountManager.MainForm.resources
+D:\ITACAD\2.net\lab1\Laborator 1 Solution\AccountManager\AccountManager\obj\Debug\AccountManager.Properties.Resources.resources
+D:\ITACAD\2.net\lab1\Laborator 1 Solution\AccountManager\AccountManager\obj\Debug\AccountManager.csproj.GenerateResource.Cache
+D:\ITACAD\2.net\lab1\Laborator 1 Solution\AccountManager\AccountManager\obj\Debug\AccountManager.csprojAssemblyReference.cache
+D:\ITACAD\2.net\lab1\Laborator 1 Solution\AccountManager\AccountManager\obj\Debug\AccountManager.csproj.CoreCompileInputs.cache
+D:\ITACAD\2.net\lab1\Laborator 1 Solution\AccountManager\AccountManager\bin\Debug\EASendMail45.dll
+D:\ITACAD\2.net\lab1\Laborator 1 Solution\AccountManager\AccountManager\obj\Debug\AccountManager.csproj.CopyComplete
+C:\Users\DemonsRun\Desktop\New folder\2.Net_Course\Windows Forms\Lab1\AccountManager\AccountManager\bin\Debug\AccountManager.exe.config
+C:\Users\DemonsRun\Desktop\New folder\2.Net_Course\Windows Forms\Lab1\AccountManager\AccountManager\bin\Debug\AccountManager.exe
+C:\Users\DemonsRun\Desktop\New folder\2.Net_Course\Windows Forms\Lab1\AccountManager\AccountManager\bin\Debug\AccountManager.pdb
+C:\Users\DemonsRun\Desktop\New folder\2.Net_Course\Windows Forms\Lab1\AccountManager\AccountManager\bin\Debug\EASendMail45.dll
+C:\Users\DemonsRun\Desktop\New folder\2.Net_Course\Windows Forms\Lab1\AccountManager\AccountManager\obj\Debug\AccountManager.csprojAssemblyReference.cache
+C:\Users\DemonsRun\Desktop\New folder\2.Net_Course\Windows Forms\Lab1\AccountManager\AccountManager\obj\Debug\AccountManager.MainForm.resources
+C:\Users\DemonsRun\Desktop\New folder\2.Net_Course\Windows Forms\Lab1\AccountManager\AccountManager\obj\Debug\AccountManager.Properties.Resources.resources
+C:\Users\DemonsRun\Desktop\New folder\2.Net_Course\Windows Forms\Lab1\AccountManager\AccountManager\obj\Debug\AccountManager.csproj.GenerateResource.cache
+C:\Users\DemonsRun\Desktop\New folder\2.Net_Course\Windows Forms\Lab1\AccountManager\AccountManager\obj\Debug\AccountManager.csproj.CoreCompileInputs.cache
+C:\Users\DemonsRun\Desktop\New folder\2.Net_Course\Windows Forms\Lab1\AccountManager\AccountManager\obj\Debug\AccountManager.csproj.CopyComplete
+C:\Users\DemonsRun\Desktop\New folder\2.Net_Course\Windows Forms\Lab1\AccountManager\AccountManager\obj\Debug\AccountManager.exe
+C:\Users\DemonsRun\Desktop\New folder\2.Net_Course\Windows Forms\Lab1\AccountManager\AccountManager\obj\Debug\AccountManager.pdb

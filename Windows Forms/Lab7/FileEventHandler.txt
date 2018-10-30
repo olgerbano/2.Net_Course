@@ -1,0 +1,13 @@
+        private void FileEventHandler(Object sender, FileSystemEventArgs e)
+        {
+            IndexedWatcher watcher = sender as IndexedWatcher;
+            string str = String.Format("{0} {1}", e.FullPath, e.ChangeType);
+            lock (watcher.ProcessesWatching)
+            lock (data)
+            {
+                foreach (int id in watcher.ProcessesWatching)
+                {
+                    data[id].Add(str);
+                }
+            }
+        }

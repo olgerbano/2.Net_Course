@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AccountManager">
+</Property><Property Name="Solution File" Value="D:\2.NET\Allfiles\Mod01\Labfiles\Solution\CS\AccountManager\AccountManager.sln">
+</Property><Property Name="User Options File" Value="D:\2.NET\Allfiles\Mod01\Labfiles\Solution\CS\AccountManager\AccountManager.suo">
+</Property><Property Name="Date" Value="Monday, March 15, 2010">
+</Property><Property Name="Time" Value="13:21 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="AccountManager.sln" Description="File successfully backed up as D:\2.NET\Allfiles\Mod01\Labfiles\Solution\CS\AccountManager\Backup1\AccountManager.sln">
+</Event><Event ErrorLevel="0" Project="" Source="AccountManager.suo" Description="File successfully backed up as D:\2.NET\Allfiles\Mod01\Labfiles\Solution\CS\AccountManager\Backup1\AccountManager.suo">
+</Event><Event ErrorLevel="0" Project="AccountManager" Source="AccountManager\AccountManager.csproj" Description="Project file successfully backed up as D:\2.NET\Allfiles\Mod01\Labfiles\Solution\CS\AccountManager\Backup1\AccountManager\AccountManager.csproj">
+</Event><Event ErrorLevel="0" Project="AccountManager" Source="AccountManager\AccountManager.csproj.user" Description="Project user file successfully backed up as D:\2.NET\Allfiles\Mod01\Labfiles\Solution\CS\AccountManager\Backup1\AccountManager\AccountManager.csproj.user">
+</Event><Event ErrorLevel="0" Project="AccountManager" Source="AccountManager\Account.cs" Description="File successfully backed up as D:\2.NET\Allfiles\Mod01\Labfiles\Solution\CS\AccountManager\Backup1\AccountManager\Account.cs">
+</Event><Event ErrorLevel="0" Project="AccountManager" Source="AccountManager\MainForm.cs" Description="File successfully backed up as D:\2.NET\Allfiles\Mod01\Labfiles\Solution\CS\AccountManager\Backup1\AccountManager\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="AccountManager" Source="AccountManager\MainForm.Designer.cs" Description="File successfully backed up as D:\2.NET\Allfiles\Mod01\Labfiles\Solution\CS\AccountManager\Backup1\AccountManager\MainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AccountManager" Source="AccountManager\Program.cs" Description="File successfully backed up as D:\2.NET\Allfiles\Mod01\Labfiles\Solution\CS\AccountManager\Backup1\AccountManager\Program.cs">
+</Event><Event ErrorLevel="0" Project="AccountManager" Source="AccountManager\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\2.NET\Allfiles\Mod01\Labfiles\Solution\CS\AccountManager\Backup1\AccountManager\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="AccountManager" Source="AccountManager\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\2.NET\Allfiles\Mod01\Labfiles\Solution\CS\AccountManager\Backup1\AccountManager\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AccountManager" Source="AccountManager\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\2.NET\Allfiles\Mod01\Labfiles\Solution\CS\AccountManager\Backup1\AccountManager\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AccountManager" Source="AccountManager\Transaction.cs" Description="File successfully backed up as D:\2.NET\Allfiles\Mod01\Labfiles\Solution\CS\AccountManager\Backup1\AccountManager\Transaction.cs">
+</Event><Event ErrorLevel="0" Project="AccountManager" Source="AccountManager\TransactionEvent.cs" Description="File successfully backed up as D:\2.NET\Allfiles\Mod01\Labfiles\Solution\CS\AccountManager\Backup1\AccountManager\TransactionEvent.cs">
+</Event><Event ErrorLevel="0" Project="AccountManager" Source="AccountManager\TransactionException.cs" Description="File successfully backed up as D:\2.NET\Allfiles\Mod01\Labfiles\Solution\CS\AccountManager\Backup1\AccountManager\TransactionException.cs">
+</Event><Event ErrorLevel="0" Project="AccountManager" Source="AccountManager\Properties\Settings.settings" Description="File successfully backed up as D:\2.NET\Allfiles\Mod01\Labfiles\Solution\CS\AccountManager\Backup1\AccountManager\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="AccountManager" Source="AccountManager\MainForm.resx" Description="File successfully backed up as D:\2.NET\Allfiles\Mod01\Labfiles\Solution\CS\AccountManager\Backup1\AccountManager\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="AccountManager" Source="AccountManager\Properties\Resources.resx" Description="File successfully backed up as D:\2.NET\Allfiles\Mod01\Labfiles\Solution\CS\AccountManager\Backup1\AccountManager\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="AccountManager" Source="AccountManager\AccountManager.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="AccountManager" Source="AccountManager\AccountManager.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="AccountManager.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="AccountManager.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AccountManager" Source="AccountManager\AccountManager.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

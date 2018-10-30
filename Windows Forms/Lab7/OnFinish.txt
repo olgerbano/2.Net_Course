@@ -1,0 +1,13 @@
+            OnResults(id, results);
+            lock (data)
+            {
+                data.Remove(id);
+            }
+
+            lock (watchers)
+            {
+                foreach (KeyValuePair<string, IndexedWatcher> pair in watchers)
+                {
+                    pair.Value.RemoveProcess(id);
+                }
+            }

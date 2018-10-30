@@ -1,0 +1,16 @@
+            lock (data)
+            {
+                List<string> items;
+                if (data.TryGetValue(id, out items))
+                {
+                    foreach (string str in items)
+                    {
+                        Report(results, str);
+                    }
+                }
+                else
+                {
+                    Report(results, "No data for this client");
+                }
+            }
+            OnReset(id, results);

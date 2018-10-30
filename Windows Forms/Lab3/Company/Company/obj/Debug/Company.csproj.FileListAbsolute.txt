@@ -1,0 +1,13 @@
+c:\users\andrei\documents\visual studio 2012\Projects\Company\Company\bin\Debug\Company.exe.config
+c:\users\andrei\documents\visual studio 2012\Projects\Company\Company\obj\Debug\Company.csprojResolveAssemblyReference.cache
+c:\users\andrei\documents\visual studio 2012\Projects\Company\Company\bin\Debug\Company.exe
+c:\users\andrei\documents\visual studio 2012\Projects\Company\Company\bin\Debug\Company.pdb
+c:\users\andrei\documents\visual studio 2012\Projects\Company\Company\obj\Debug\Company.exe
+c:\users\andrei\documents\visual studio 2012\Projects\Company\Company\obj\Debug\Company.pdb
+D:\ITACAD\2.net\lab3\Company - Solution\Company\Company\bin\Debug\Company.exe.config
+D:\ITACAD\2.net\lab3\Company - Solution\Company\Company\bin\Debug\Company.exe
+D:\ITACAD\2.net\lab3\Company - Solution\Company\Company\bin\Debug\Company.pdb
+D:\ITACAD\2.net\lab3\Company - Solution\Company\Company\obj\Debug\Company.csprojAssemblyReference.cache
+D:\ITACAD\2.net\lab3\Company - Solution\Company\Company\obj\Debug\Company.csproj.CoreCompileInputs.cache
+D:\ITACAD\2.net\lab3\Company - Solution\Company\Company\obj\Debug\Company.exe
+D:\ITACAD\2.net\lab3\Company - Solution\Company\Company\obj\Debug\Company.pdb

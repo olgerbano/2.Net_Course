@@ -1,0 +1,30 @@
+C:\Users\Sergiu Stefan Turlea\Desktop\2.NET Cursul 1 - REDONE\lab\suport\AccountManager\AccountManager\bin\Debug\AccountManager.exe.config
+C:\Users\Samcro\Desktop\2.net2017\Laborator 1 - rezolvarea mea\AccountManager\AccountManager\bin\Debug\AccountManager.exe.config
+C:\Users\Samcro\Desktop\2.net2017\Laborator 1 - rezolvarea mea\AccountManager\AccountManager\obj\Debug\AccountManager.csprojResolveAssemblyReference.cache
+C:\Users\Samcro\Desktop\2.net2017\Laborator 1 - rezolvarea mea\AccountManager\AccountManager\obj\Debug\MainWindow.g.cs
+C:\Users\Samcro\Desktop\2.net2017\Laborator 1 - rezolvarea mea\AccountManager\AccountManager\obj\Debug\App.g.cs
+C:\Users\Samcro\Desktop\2.net2017\Laborator 1 - rezolvarea mea\AccountManager\AccountManager\obj\Debug\AccountManager_MarkupCompile.cache
+C:\Users\Samcro\Desktop\2.net2017\Laborator 1 - rezolvarea mea\AccountManager\AccountManager\obj\Debug\AccountManager_MarkupCompile.lref
+C:\Users\Samcro\Desktop\2.net2017\Laborator 1 - rezolvarea mea\AccountManager\AccountManager\bin\Debug\AccountManager.exe
+C:\Users\Samcro\Desktop\2.net2017\Laborator 1 - rezolvarea mea\AccountManager\AccountManager\bin\Debug\AccountManager.pdb
+C:\Users\Samcro\Desktop\2.net2017\Laborator 1 - rezolvarea mea\AccountManager\AccountManager\obj\Debug\MainWindow.baml
+C:\Users\Samcro\Desktop\2.net2017\Laborator 1 - rezolvarea mea\AccountManager\AccountManager\obj\Debug\AccountManager.g.resources
+C:\Users\Samcro\Desktop\2.net2017\Laborator 1 - rezolvarea mea\AccountManager\AccountManager\obj\Debug\AccountManager.Properties.Resources.resources
+C:\Users\Samcro\Desktop\2.net2017\Laborator 1 - rezolvarea mea\AccountManager\AccountManager\obj\Debug\AccountManager.csproj.GenerateResource.Cache
+C:\Users\Samcro\Desktop\2.net2017\Laborator 1 - rezolvarea mea\AccountManager\AccountManager\obj\Debug\AccountManager.exe
+C:\Users\Samcro\Desktop\2.net2017\Laborator 1 - rezolvarea mea\AccountManager\AccountManager\obj\Debug\AccountManager.pdb
+D:\ne desktop\2.net2017\lab1\Laborator 1 - rezolvarea mea\AccountManager\AccountManager\bin\Debug\AccountManager.exe.config
+D:\ne desktop\2.net2017\lab1\Laborator 1 - rezolvarea mea\AccountManager\AccountManager\bin\Debug\AccountManager.exe
+D:\ne desktop\2.net2017\lab1\Laborator 1 - rezolvarea mea\AccountManager\AccountManager\bin\Debug\AccountManager.pdb
+D:\ne desktop\2.net2017\lab1\Laborator 1 - rezolvarea mea\AccountManager\AccountManager\obj\Debug\AccountManager.csprojAssemblyReference.cache
+D:\ne desktop\2.net2017\lab1\Laborator 1 - rezolvarea mea\AccountManager\AccountManager\obj\Debug\MainWindow.g.cs
+D:\ne desktop\2.net2017\lab1\Laborator 1 - rezolvarea mea\AccountManager\AccountManager\obj\Debug\App.g.cs
+D:\ne desktop\2.net2017\lab1\Laborator 1 - rezolvarea mea\AccountManager\AccountManager\obj\Debug\AccountManager_MarkupCompile.cache
+D:\ne desktop\2.net2017\lab1\Laborator 1 - rezolvarea mea\AccountManager\AccountManager\obj\Debug\AccountManager_MarkupCompile.lref
+D:\ne desktop\2.net2017\lab1\Laborator 1 - rezolvarea mea\AccountManager\AccountManager\obj\Debug\MainWindow.baml
+D:\ne desktop\2.net2017\lab1\Laborator 1 - rezolvarea mea\AccountManager\AccountManager\obj\Debug\AccountManager.g.resources
+D:\ne desktop\2.net2017\lab1\Laborator 1 - rezolvarea mea\AccountManager\AccountManager\obj\Debug\AccountManager.Properties.Resources.resources
+D:\ne desktop\2.net2017\lab1\Laborator 1 - rezolvarea mea\AccountManager\AccountManager\obj\Debug\AccountManager.csproj.GenerateResource.cache
+D:\ne desktop\2.net2017\lab1\Laborator 1 - rezolvarea mea\AccountManager\AccountManager\obj\Debug\AccountManager.csproj.CoreCompileInputs.cache
+D:\ne desktop\2.net2017\lab1\Laborator 1 - rezolvarea mea\AccountManager\AccountManager\obj\Debug\AccountManager.exe
+D:\ne desktop\2.net2017\lab1\Laborator 1 - rezolvarea mea\AccountManager\AccountManager\obj\Debug\AccountManager.pdb

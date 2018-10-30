@@ -1,0 +1,35 @@
+            if (command.Length == 0)
+            {
+                Report(results, "No command");
+                return;
+            }
+            string[] cmdParams = command.Split(new char[] { ' ' });
+            if (cmdParams.Length < 2)
+            {
+                Report(results, "Not enough parameters");
+                return;
+            }
+            int id = Int32.Parse(cmdParams[1]);
+            switch (cmdParams[0])
+            {
+            case "RESET":
+                OnReset(id, results);
+                break;
+            case "START":
+                if (cmdParams.Length < 3)
+                {
+                    Report(results, "Not enough parameters");
+                    return;
+                }
+                OnStart(id, cmdParams[2], results);
+                break;
+            case "FINISH":
+                OnFinish(id, results);
+                break;
+            case "RESULTS":
+                OnResults(id, results);
+                break;
+            default:
+                Report(results, "Unrecognised command");
+                break;
+            }
